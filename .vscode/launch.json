@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_d8d474d"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -60,12 +66,16 @@
             "mainClass": "edu.marcos.cometario",
             "projectName": "dio-trilha-java-basico_d8d474d"
         },
-
         {
             "type": "java",
             "request": "launch",
             "mainClass": "AboutMe",
-            "args": ["GLEYSON", "SAMPAIO", "28", "1.58"]
+            "args": [
+                "GLEYSON",
+                "SAMPAIO",
+                "28",
+                "1.58"
+            ]
         }
     ]
 }

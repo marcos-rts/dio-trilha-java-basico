@@ -8,6 +8,27 @@
             "type": "java",
             "name": "CaixaEletronico",
             "request": "launch",
+            "mainClass": "edu.simples.CaixaEletronico",
+            "projectName": "dio-trilha-java-basico_d8d474d"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.composto.ResultadoEscolar",
+            "projectName": "dio-trilha-java-basico_d8d474d"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "dio-trilha-java-basico_d8d474d"
+        },
+        {
+            "type": "java",
+            "name": "CaixaEletronico",
+            "request": "launch",
             "mainClass": "CaixaEletronico",
             "projectName": "dio-trilha-java-basico_d8d474d"
         },

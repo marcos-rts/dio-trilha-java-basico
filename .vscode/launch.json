@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "edu.repetiçãoFor.ExemploFor",
+            "projectName": "dio-trilha-java-basico_dc88420"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedida",
             "request": "launch",
             "mainClass": "edu.caso.SistemaMedida",

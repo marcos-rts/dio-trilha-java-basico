@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "edu.breakandcontinue.BreakContinue",
+            "projectName": "dio-trilha-java-basico_dc88420"
+        },
+        {
+            "type": "java",
             "name": "ForArray",
             "request": "launch",
             "mainClass": "edu.repetiçãoFor.ForArray",

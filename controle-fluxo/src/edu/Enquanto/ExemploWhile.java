@@ -19,7 +19,7 @@ public static void main(String[] args) {
         * Não se preocupe quanto a formatação de valores
         * Iremos explorar os recursos de formatação em breve !!
         */
-   }
+   } 
    private static double valorAleatorio() {
 	return ThreadLocalRandom.current().nextDouble(2, 8);
    }

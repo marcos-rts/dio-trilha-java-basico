@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "edu.repetiçãoFor.ForArray",
+            "projectName": "dio-trilha-java-basico_dc88420"
+        },
+        {
+            "type": "java",
             "name": "ExemploFor",
             "request": "launch",
             "mainClass": "edu.repetiçãoFor.ExemploFor",

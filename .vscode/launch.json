@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.excessao.AboutMe",
+            "projectName": "dio-trilha-java-basico_dc88420"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "edu.Enquanto.ExemploDoWhile",
